@@ -16,6 +16,7 @@ If you are familiar with Python, you can install the required packages and run M
 (2) batchspec.bat: A batch file for running Multiwfn analysis.
 (3) Step_1.txt1: A parameter file needed for Multiwfn analysis.
 (4) settings.ini: Make sure to set isilent=1.
+(5) Multiwfn: download here:http://sobereva.com/multiwfn/
 
 【References】
 http://sobereva.com/601  
